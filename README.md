@@ -1,5 +1,5 @@
-## Hello 👋 I'm 
-<span style="color: -webkit-linear-gradient(135deg,#fc466b,#3f5efb)">Shreyas Kulkarni</span>
+<h1>Hello 👋 I'm <span style="color: -webkit-linear-gradient(135deg,#fc466b,#3f5efb)">Shreyas Kulkarni</span></h1> 
+
 
 <!--
 **shreyas710/shreyas710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
