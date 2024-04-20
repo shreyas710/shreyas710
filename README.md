@@ -1,4 +1,4 @@
-<h1>Hello 👋 I'm <span style="color: red">Shreyas Kulkarni</span></h1> 
+##Hello 👋 I'm Shreyas Kulkarni
 
 
 <!--
