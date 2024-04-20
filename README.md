@@ -1,4 +1,4 @@
-<h1>Hello 👋 I'm <span style="color: -webkit-linear-gradient(135deg,#fc466b,#3f5efb)">Shreyas Kulkarni</span></h1> 
+<h1>Hello 👋 I'm <span style="color: red">Shreyas Kulkarni</span></h1> 
 
 
 <!--
