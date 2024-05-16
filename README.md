@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Shreyas Kulkarni
 
-<a href="https://shr3yasku1karni.netlify.app/" target="_blank">Visit my Website</a>
+<a href="https://shr3yas.netlify.app/" target="_blank">Visit my Website</a>
 <!--
 **shreyas710/shreyas710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
