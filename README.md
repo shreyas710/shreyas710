@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![shreyasnk532's LeetCode Stats](https://coding-profile.vercel.app/api?username=shreyasnk532&theme=Light)](https://github.com/Pranshu321/coding-profiles)
